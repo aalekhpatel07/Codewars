@@ -2,7 +2,8 @@ from pathlib import Path
 import os
 import sys
 
-TOP = Path('../Codewars')
+
+TOP = Path(os.getcwd())
 DATA = (TOP / 'data')
 DATA_INPUT = DATA / 'input'
 DATA_OUTPUT = DATA / 'output'
