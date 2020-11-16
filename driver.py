@@ -2,7 +2,7 @@ from pathlib import Path
 import os
 import sys
 
-TOP = Path('../IEEExtreme14')
+TOP = Path('../Codewars')
 DATA = (TOP / 'data')
 DATA_INPUT = DATA / 'input'
 DATA_OUTPUT = DATA / 'output'
