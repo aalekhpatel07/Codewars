@@ -20,3 +20,9 @@
 -   Fill in the expected output for test cases `1, 2, ...` by creating `ProblemA1.out, ProblemA2.out, ...`
     inside `data/output`.
 -   To execute all the tests, simply execute `python driver.py ProblemA` in the shell.
+
+
+---
+## List of Problems Solved:
+
+- **\(5 kyu\)** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) : [Solution](solutions/Direction.py)
