@@ -1,4 +1,4 @@
-# IEEExtreme14
+# Problems: katas on [Codewars](https://www.codewars.com)
 ## A very basic custom test suite for competitive programming.
 
 **TLDR**:  Execute ```python driver.py ProblemA``` to test the solution to `ProblemA` against all the test cases.
