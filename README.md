@@ -6,7 +6,7 @@
 ### Some instructions.
 
 #### For writing the solution:
-- (Optional): Source into `venv` so `numpy` and `scipy` are accessible.
+- (Optional): Source into a virtual environment to ensure Python >= 3 is invoked with the `python` command.
 - Copy `template.py` into `/solutions` and rename it.
 - Filename should be one-word.
     1. Example: `ProblemA.py`
