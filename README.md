@@ -26,3 +26,4 @@
 ## List of Problems Solved:
 
 - **\(5 kyu\)** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) : [Solution](solutions/Direction.py)
+- **\(5 kyu\)** [Prime Operations](https://www.codewars.com/kata/58a3e2978bdda5a0d9000187) : [Solution](solutions/Primeoperations.py)
